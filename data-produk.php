@@ -1,0 +1,67 @@
+<?php  
+
+$product_men = array(
+    'Clothing-1' => array(
+        'badge' => 'primary',
+        'harga' => 'IDR 985K',
+        'bahan' => 'Bahan Katun',
+        'deskripsi' => 'Kaos polo cowo kerah kombinasi lengan pendek, dengan logo lfc'), 
+    'Clothing-2' => array(
+        'badge' => 'primary',
+        'harga' => 'IDR 999K',
+        'bahan' => 'Bahan Katun',
+        'deskripsi' => 'Kaos distro counter strike lengan pendek bahan soft katun'), 
+    'Clothing-3' => array(
+        'badge' => 'primary',
+        'harga' => 'IDR 90K',
+        'bahan' => 'Bahan Katun',
+        'deskripsi' => 'Kemeja kasual lengan pendek'),
+    'Clothing-4' => array(
+        'badge' => 'primary',
+        'harga' => 'IDR 91K',
+        'bahan' => 'Bahan Katun',
+        'deskripsi' => 'Kaos polo pria cowo kerah kombinasi lengan pendek layer merah'),
+    'Clothing-5' => array(
+        'badge' => 'primary',
+        'harga' => 'IDR 80K',
+        'bahan' => 'Bahan Katun',
+        'deskripsi' => 'Distro kaos putih bahan soft katun'),
+    'Clothing-6' => array(
+        'badge' => 'primary',
+        'harga' => 'IDR 80K',
+        'bahan' => 'Bahan Katun',
+        'deskripsi' => 'Distro kaos hitam bahan soft katun'));
+
+$product_women = array(
+    'Clothing-7' => array(
+        'badge' => 'pink',
+        'harga' => 'IDR 128K',
+        'bahan' => 'Bahan Wolfis',
+        'deskripsi' => 'Baju fashion model korea nyaman dipakai dan kekinian.'), 
+    'Clothing-8' => array(
+        'badge' => 'pink',
+        'harga' => 'IDR 100K',
+        'bahan' => 'Bahan Balotelli',
+        'deskripsi' => 'Baju wanita kekinian, produk lokal, bahan tidak mudah kusut dan adem saat digunakan.'), 
+    'Clothing-9' => array(
+        'badge' => 'pink',
+        'harga' => 'IDR 198K',
+        'bahan' => 'Bahan Wolfis',
+        'deskripsi' => 'Blus model korea dari bahan wolfis berkualitas, nyaman di pakai dalam berbagai aktivitas.'),
+    'Clothing-10' => array(
+        'badge' => 'pink',
+        'harga' => 'IDR 188K',
+        'bahan' => 'Bahan Katun',
+        'deskripsi' => 'Berbahan katun, baju ini dapat menyerap keringat dengan baik, manfaat bagi pengguna bisa leluasa bergerak tanpa gerah.'), 
+    'Clothing-11' => array(
+        'badge' => 'pink',
+        'harga' => 'IDR 112K',
+        'bahan' => 'Bahan Spandek',
+        'deskripsi' => 'Berbahan spandek, berfungsi untuk menjadikan baju santai dan juga tidak mudah gerah.'), 
+    'Clothing-12' => array(
+        'badge' => 'pink',
+        'harga' => 'IDR 299K',
+        'bahan' => 'Bahan Katun',
+        'deskripsi' => 'Baju dengan model sweater menggunakan bahan "baby terry", cocok untuk di gunakan di musim hujan.'));
+
+?>
